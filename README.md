@@ -151,5 +151,3 @@ This project is open source and available for educational purposes.
 ---
 
 **Happy Learning! 🚀**
-
-Start with the first guide: [01-HTML-Structure.md](./01-HTML-Structure.md) 
